@@ -1,10 +1,11 @@
 type: item
 name: Biomass
-description:A piece of unpleasant, slimy meat. The main component for creating and producing insectoids.
+description: A piece of unpleasant, slimy meat. The main component for creating and producing insectoids.
   "cost": 1,
   "color": "b22222",
   "flammability": 1,
   "explosiveness": 0,
   "radioactivity": 0,
   "charge": 0,
+
     alwaysUnlocked: true
