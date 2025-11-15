@@ -1,5 +1,5 @@
 minGameVersion: 136
-name: "hive_arrived"
+name: "hive-arrived"
 subtitle: "Bugs are gnawing at your factories!"
 displayName: "Hive Arrived!"
 description: "Strange creatures have arrived on our planet, and they don't seem friendly...
@@ -11,4 +11,5 @@ A mod where you can play as a hive of giant social insects or fight against them
 Мод в котором вы можете играть за улей социальных жуков-переростков или же бороться с ними."
 author: "Sporeys"
 version: "0.1"
+
 hidden: false
