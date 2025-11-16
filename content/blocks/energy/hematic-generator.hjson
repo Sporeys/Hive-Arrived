@@ -1,0 +1,39 @@
+localizedName: Hematic generator
+description: Uses blood to generate energy.
+type: ConsumeGenerator
+category: power
+size: 3
+health: 850
+
+hasPower: true
+powerProduction: 2
+itemDuration: 350
+squareSprite: false
+
+consumes: {
+    liquids: [
+		"blood/0.06"
+	]
+}
+
+generateEffect: {
+	x: 0
+	y: 0
+	particles: 1
+    length: 0
+    lifetime: 60
+	type: ParticleEffect
+	sizeFrom: 0
+    sizeTo: 5
+	colorFrom: 6F6E80
+    colorTo: 9898A4
+}
+effectChance: 0.1
+
+requirements: [
+    "copper/60"
+    "lead/120"
+    "metaglass/50"
+    "titanium/50"
+    "silicon/100"
+]
