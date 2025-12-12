@@ -3,7 +3,7 @@
 ## Overview
 A small (probably) mod that adds an insectoid race to the game.
 
-This mod does not add insectoids as a separate, playable faction, as that is currently impossible within Mindustry's mechanics. However, nothing stops you from using it for role-playing or building a formicarium next to your factory! :D
+This mod does not introduce insectoids as a separate playable faction. However, nothing stops you from using its content for role-playing or building your own formicarium next to the factory! :D
 
 ## Localizations
 - English
